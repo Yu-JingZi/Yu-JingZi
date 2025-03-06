@@ -81,6 +81,8 @@ width="100%">
 </p>
 
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Yu-JingZi" /> </div>
+
 ---
 
 ### About My Github
